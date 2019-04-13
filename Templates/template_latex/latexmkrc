@@ -1,0 +1,6 @@
+$pdf_mode = 1;
+
+# If you want xelatex/customize the tex interpreter
+#$pdflatex = 'xelatex -interaction=nonstopmode %O %S';
+
+@default_files = ('template_wete.tex')
